@@ -14,5 +14,6 @@
 8. [Carlos Bazan's Portfolio](https://play.google.com/apps/internaltest/4701668720879277188) - [Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/CarlosPrivacyPolicy.html)
 9. [Mo Abdulrazzak's Portfolio](https://play.google.com/apps/internaltest/4701673284907562862)
 10. [Cooper's Casino](https://play.google.com/apps/internaltest/4701032550323282393)
-11. [Lauren's Portfolio](https://play.google.com/apps/internaltest/4701368616114093978)
+11. [Lauren's Portfolio](https://play.google.com/apps/internaltest/4701368616114093978) - [Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/Laurens_Portfolio_Privacy_Policy.html)
 12. [Michal Bienias](https://play.google.com/apps/internaltest/4701574083901147722)
+13. [Connor Gabe's Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/Connor_Gabe_Portfolio_Privacy_Policy.html)

@@ -17,3 +17,4 @@
 11. [Lauren's Portfolio](https://play.google.com/apps/internaltest/4701368616114093978) - [Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/Laurens_Portfolio_Privacy_Policy.html)
 12. [Michal Bienias](https://play.google.com/apps/internaltest/4701574083901147722)
 13. [Connor Gabe's Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/Connor_Gabe_Portfolio_Privacy_Policy.html)
+14. [PulseUp Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/PulseUp_Privacy_Policy.html)

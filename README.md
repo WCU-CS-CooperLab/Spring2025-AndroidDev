@@ -10,7 +10,7 @@
 4. [Austin's Portfolio](https://play.google.com/apps/internaltest/4700995867038256164) - [Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/Austin_M_portfolio_privacy_policy.html)
 5. [Stephen Kain's Portfolio](https://play.google.com/apps/internaltest/4701655244486154311) - [Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/Stephen_K_Portfolio_Privacy_Policy.html)
 6. [Thomas Burke's Portfolio](https://play.google.com/apps/internaltest/4701513263067402141)
-7. [Alex B.'s Portfolio](https://play.google.com/apps/internaltest/4700922642296498557) - [Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/Alex_B_Portfolio_Policy.html)
+7. [Alex B.'s Portfolio](https://play.google.com/apps/internaltest/4700922642296498557) - [Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/Alex_B_Portfolio_Privacy_Policy.html)
 8. [Carlos Bazan's Portfolio](https://play.google.com/apps/internaltest/4701668720879277188) - [Privacy Policy](https://www.cs.wcupa.edu/DCOOPER/csc496s25/CarlosPrivacyPolicy.html)
 9. [Mo Abdulrazzak's Portfolio](https://play.google.com/apps/internaltest/4701673284907562862)
 10. [Cooper's Casino](https://play.google.com/apps/internaltest/4701032550323282393)
